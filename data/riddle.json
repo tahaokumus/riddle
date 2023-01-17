@@ -1,0 +1,107 @@
+[
+	{
+		"id": 1,
+		"data": [
+			{
+				"lang": "en",
+				"text": {
+					"title": "Puzzle #1",
+					"your_answer": "Your answer",
+					"submit": "Submit",
+					"hint": "Hint"
+				},
+				"hints": [
+					{
+						"no": 1,
+						"img": "https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fs3.amazonaws.com%2Fappforest_uf%2Ff1644596801520x878270657340302700%2Fhello.png?w=256&h=&auto=compress&dpr=1&fit=max"
+					}
+				]
+			},
+			{
+				"lang": "fr",
+				"text": {
+					"title": "Énigme numéro 2",
+					"your_answer": "Votre Réponse",
+					"submit": "Valider",
+					"hint": "🔎Indice"
+				},
+				"hints": [
+					{
+						"no": 1,
+						"img": "https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fs3.amazonaws.com%2Fappforest_uf%2Ff1644596801520x878270657340302700%2Fhello.png?w=256&h=&auto=compress&dpr=1&fit=max"
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": 2,
+		"data": [
+			{
+				"lang": "en",
+				"text": {
+					"title": "Puzzle #2",
+					"your_answer": "Your answer",
+					"submit": "Submit",
+					"hint": "Hint"
+				},
+				"hints": [
+					{
+						"no": 1,
+						"text": "Did you replace [key 1] with the key given in riddle 1? Please note that we are talking about the KEY and not the ANSWER to riddle 1"
+					}
+				]
+			},
+			{
+				"lang": "fr",
+				"text": {
+					"title": "Énigme numéro 2",
+					"your_answer": "Votre Réponse",
+					"submit": "Valider",
+					"hint": "🔎Indice"
+				},
+				"hints": [
+					{
+						"no": 1,
+						"text": "Avez-vous remplacé [clé 1] par la clé donnée à l'énigme 1 ? Attention, nous parlons bien de la clé et pas de la réponse à l'énigme 1"
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": 3,
+		"data": [
+			{
+				"lang": "en",
+				"text": {
+					"title": "Puzzle #3",
+					"your_answer": "Your answer",
+					"submit": "Submit",
+					"hint": "Hint"
+				},
+				"hints": [
+					{
+						"no": 1,
+						"text": "What magic symbols do you go through to get out of the maze?"
+					}
+				]
+			},
+			{
+				"lang": "fr",
+				"text": {
+					"title": "Énigme numéro 2",
+					"your_answer": "Votre Réponse",
+					"submit": "Valider",
+					"hint": "🔎Indice"
+				},
+				"hints": [
+					{
+						"no": 1,
+						"text": "Par quels symboles magiques passez-vous pour sortir du labyrinthe ?"
+					}
+				]
+			}
+		]
+	}
+]

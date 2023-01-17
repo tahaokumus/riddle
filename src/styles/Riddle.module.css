@@ -1,0 +1,36 @@
+.riddle {
+	font-size: 2rem;
+  padding: 2rem;
+}
+
+.input {
+	height: 50px;
+	width: 250px;
+	font-size: 1.5rem;
+}
+
+.submit {
+	display: block;
+	height: 50px;
+	width: 150px;
+	font-size: 1.5rem;
+	margin-top: 1rem;
+}
+
+.hintHeader {
+	font-size: 1.5rem;
+  cursor: pointer;
+  margin-top: 1rem;
+}
+
+.hintHeader:hover {
+	text-decoration: underline;
+}
+
+.hintContent {
+	font-size: 1.5rem;
+}
+
+.hidden {
+  display: none;
+}
