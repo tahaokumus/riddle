@@ -20,7 +20,7 @@
 			{
 				"lang": "fr",
 				"text": {
-					"title": "Énigme numéro 2",
+					"title": "Énigme numéro 1",
 					"your_answer": "Votre Réponse",
 					"submit": "Valider",
 					"hint": "🔎Indice"
@@ -90,7 +90,7 @@
 			{
 				"lang": "fr",
 				"text": {
-					"title": "Énigme numéro 2",
+					"title": "Énigme numéro 3",
 					"your_answer": "Votre Réponse",
 					"submit": "Valider",
 					"hint": "🔎Indice"
