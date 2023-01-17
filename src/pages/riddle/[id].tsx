@@ -72,7 +72,7 @@ export async function getServerSideProps(
 	);
 	const json = JSON.parse(fileContents) as Array<Data>;
 	const riddles = json.find((riddle) => riddle.id == id);
-	const riddle = riddles?.data.find((r) => r.lang == (lang ?? 'en'));
+	const riddle = riddles?.data.find((r) => r.lang == (lang || 'en'));
 
 	if (riddle) {
 		return { props: riddle };

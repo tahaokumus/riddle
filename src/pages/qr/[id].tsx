@@ -55,7 +55,7 @@ export async function getServerSideProps(
 	let qr = json.find((qr) => qr.id == id);
 
 	if (qr) {
-		qr.lang = lang?.toString() ?? 'en';
+		qr.lang = lang?.toString() || 'en';
 		return { props: qr };
 	}
 
